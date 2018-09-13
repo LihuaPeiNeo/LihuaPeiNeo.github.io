@@ -20,12 +20,17 @@ My resume <a href="{{ BASE_PATH }}/_Resume/Lihua_Pei_Resume.pdf">resume</a>
 <br>
 <br>
 
+<p align = "left">
 Back to my senior year in my undergraduate, I attended professor Deng's group and assisted to do research about parallel computing project. Currently as the second author working on paper deft proposed an algorithmic group that covers Cannon’s, BMR, SUMMA, distributed Strassen’s method for scalable parallel large-scale matrix multiplications. In addition, we generated generate a function which aims to collect the existing method and predict the future parallel matrix multiplications’ methods.
+</p>
 
+<p align = "left">
 Also, I worked for Scala Computing to develop a distrubed task scheduling process for their computer coins' development project. We design the whitepaper which purposes a new reinforcement model PANDA (Policy Advisor Network and Decision Architecture) applies the reinforcement learning to arrange consumer jobs for certain computer power resource.
+</p>
 
+<p align = "left">
 If you are interesting about my projects, please be free to check out it blow.
-
+</p>
  
 
 ### <a name="Portfolio"></a>Projects
