@@ -8,15 +8,15 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Benjamin Harvey
+title : Lihua (Neo) Pei 
 author :
-  name : Benjamin Harvey
-  email : bsharve@gmail.com
-  github : bsharvey
-  twitter : bsharvey
+  name : Lihua (Neo) Pei 
+  email : lihua.peidata@gmail.com / lihuapei@gwu.edu
+  github : lihuapeineo
+  twitter : none
   feedburner : nil
 
-production_url : https://bsharvey.github.io/
+production_url : https://LihuaPeiNeo.github.io/
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
