@@ -6,14 +6,29 @@ keywords: Python, Pyplot, Statistic Modeling, Computer Vision, Data Analytics, a
 ---
 
 <p align = "left">
-Welcome !
+Welcome to my Github Pages!
 </p>
 
+<p align="left">
+There are something you can explore me:
+<ul>
+  <li><a herf="http://github.com//LihuaPeiNeo">Github</a></li>
+</ul>
 
+My resume <a href="{{ BASE_PATH }}/_Resume/Lihua_Pei_Resume.pdf">resume</a>
 
+<br>
+<br>
 
+Back to my senior year in my undergraduate, I attended professor Deng's group and assisted to do research about parallel computing project. Currently as the second author working on paper deft proposed an algorithmic group that covers Cannon’s, BMR, SUMMA, distributed Strassen’s method for scalable parallel large-scale matrix multiplications. In addition, we generated generate a function which aims to collect the existing method and predict the future parallel matrix multiplications’ methods.
 
-### <a name="Portfolio"></a>Portfolio
+Also, I worked for Scala Computing to develop a distrubed task scheduling process for their computer coins' development project. We design the whitepaper which purposes a new reinforcement model PANDA (Policy Advisor Network and Decision Architecture) applies the reinforcement learning to arrange consumer jobs for certain computer power resource.
+
+If you are interesting about my projects, please be free to check out it blow.
+
+ 
+
+### <a name="Portfolio"></a>Projects
 
 <table class="wide">
 <tr>
