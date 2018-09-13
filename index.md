@@ -18,10 +18,11 @@ Welcome !
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="https://bsharvey.github.io/pages/publpics/bioinformatics1.html">
-        <img src="pages/publpics/bioinformatics1.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
+    <a href="https://LihuaPeiNeo.github.io/Matrix_Paper/">
+        <img src="Matrix_Paper/3DAlg.jpg" alt="Parallel Matrix Mutiplication" title="PMM"/>
     </a>
   </td>
+  
   <td class="right">
     <a href="https://bsharvey.github.io/pages/publpics/nba1.html">
         <img src="pages/publpics/nba1.png" alt="Tian et
