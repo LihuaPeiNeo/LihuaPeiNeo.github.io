@@ -1,24 +1,81 @@
 ---
 layout: page
-title: about
+title: About Me
 description: Benjamin Harvey is...
 ---
 
 #### <a name="currentposition"></a>current position
-Dr. Benjamin Harvey currently serves as a Data Scientist and architect for the Department of Defense (DoD) within the National Security Agency (NSA).  He is also part of the University of Maryland Medical Post-Baccalaureate program. He is current part-time faculty at George Washington University (GWU) for Department of Engineering Management and Systems Engineering and Department of Computer Science joint Data Analytic graduate program.
+
+Lihua Pei (Neo) currently is a graduate student of Geoge Washington University majored in Data Analytics.
+
+• Have two-year programming experience in actual research projects, and now focus on studying machine 
+  learning combing with statistic models.
+  
+• Familiar with various software methodology, programming languages and development tools.
+
+• Enthusiastic about research and studies related to statistics and machine learning,
+  prepared for further study and research in combine machine learning and statistic business.
+
 
 
 #### <a name="previousposition"></a>previous positions
-Dr. Harvey joined the Agency in 2009 and was hired into the Cryptologic Computer Science Develop Program (CDP).  He graduated from the CDP in 2012 and was the first African American to accepted and to finish the program.
+
 
 
 #### <a name="researchbackground"></a>research background
-Dr. Harvey conducted research at Harvard-Massachusetts Institute of Technology (MIT) Division of Health Sciences and Technology (HST) in the Bioinformatics and Integrative Genomics (BIG) program in 2008.  He was a Bioinformatics Post-Baccalaureate Research-Fellow in 2009 with i2b2, National Center for Biomedical Computing, Brigham and Women’s Hospital, and Children’s Hospital Boston Informatics Program (CHIP) with an academic appointment at Harvard Medical School. He also completed a Clinical Informatics Research-Fellowship in 2010 at the National Institute of Health (NIH), Clinical Center within the Department of Clinical Research Informatics (DCRI).
+
+**Optimal Topologies Searching Research Guided by Prof. Yuefan Deng**  
+
+*Stony Brook, NY, Stony Brook University (Aug 2017 - Present)*
+
+•   Design and implement an algorithm to generate degree-3 topologies with 64  
+     nodes.
+     
+•   Successfully find the optimal topologies of 64K3 (shortest mean path).
+
+•   Design the experiment to text five MPI broadcast methods on Taishan Cluster 
+    to collect data and build speedup curve for different topologies.
+    
+•   Participate in research in optimizing topology graph for cluster broadcasting. 
+
+**Parallel Matrix Multiplication Research Guided by Prof. Yuefan Deng**
+
+*Stony Brook, NY, Stony Brook. University (Dec 2017 - Present)*
+
+•  Proposed an algorithmic group that covers Cannon’s. BMR, SUMMA, 
+   distributed Strassen’s method for scalable parallel large-scale matrix
+   multiplications.
+    
+•  Currently as the second author working on paper deft to generate a function 
+   which aims to collect the existing method and predict the future parallel matrix 
+   multiplications’ methods. 
+
+
+
 
 #### <a name="education"></a>ecucation
-Dr. Harvey graduated from Mississippi Valley State University in 2008 with a B.S. in Pre-Medicine & Computer Science.  He received a Master of Science in Computer Science from Bowie State University in 2011 and Doctorate of Science in Computer Science from Bowie State University in 2015. His dissertation was entitled “Cloud Scale Genomic Signals Processing for Robust Microarray Data Analysis.”  He also holds a Cryptologic Computer Science Certificate from the University of Maryland Baltimore County (UMBC) in conjunction with the Naval Post-Graduate School (NPS).  
+
+**Bachelor in Applied mathematics and Statistics (AMS)**
+
+*•  Stony Brook University, Stony Brook, NY*
+
+*•   CGPA: 3.55/4.00*
+
+*•   Sep 2014 to Dec 2017*
+
+
+**Master in Data Analytics**
+
+*• George Washington University, Washington, DC*
+
+*• Sep 2018 to …*
+
+
 
 #### <a name="cvandresume"></a>cv and resume
 [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/bsharvey_cv.pdf)
 
 ---
+
+
+
