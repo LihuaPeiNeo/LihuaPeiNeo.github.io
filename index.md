@@ -43,7 +43,7 @@ Welcome !
     </a>
   </td>
 -->
-</tr>
+
 </tr>
 </table>
 
