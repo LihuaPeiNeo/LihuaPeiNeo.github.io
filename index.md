@@ -23,12 +23,13 @@ Welcome !
     </a>
   </td>
   
+  
   <td class="right">
-    <a href="https://bsharvey.github.io/pages/publpics/nba1.html">
-        <img src="pages/publpics/nba1.png" alt="Tian et
-        al. (2016) Fig 4" title="Tian et al. (2016) Fig 4"/>
+    <a href="https://LihuaPeiNeo.github.io/Scheduling_Process">
+        <img src="Scheduling_Process/Scheduling_Process.png" alt="Computer Coin Develop" title="Scheduling Proess"/>
     </a>
   </td>
+<!--
 </tr>
 <tr>
   <td class="left">
@@ -41,9 +42,12 @@ Welcome !
         <img src="pages/publpics/nba2.png" alt="Tian et al. (2015) Fig 4" title="Tian et al. (2015) Fig 4"/>
     </a>
   </td>
+-->
+</tr>
 </tr>
 </table>
 
+<!--
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
@@ -51,3 +55,4 @@ Welcome !
       </ul>
   </div>
 </div>
+-->
