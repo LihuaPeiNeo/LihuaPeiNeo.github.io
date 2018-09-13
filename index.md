@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 title: Lihua (Neo) Pei
-description: Benjamin Harvey is an graduate student at The George Washington University majored in Data Analytics.
+description: Lihua (Neo) Pei is an graduate student at The George Washington University majored in Data Analytics.
 keywords: Python, Pyplot, Statistic Modeling, Computer Vision, Data Analytics, and Mashine Learning.
 ---
 
