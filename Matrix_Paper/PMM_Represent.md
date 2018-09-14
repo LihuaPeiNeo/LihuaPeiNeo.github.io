@@ -26,9 +26,9 @@ In the 3D cube, the matrix multiplication process is to multiply the value store
 ![PMM2](../Matrix_Paper/Matrix3d_Reduce.png)
 
 <p align = "left">
-Though existing practical O(n3) PMM algorithms such as Cannon's, SUMMA, and PUMMA, etc have been designed to deal with various general conditions. Applying to the 3D cube, the algorithms' process are different by how they cut the blocks to save the data.
+The existing practical O(n3) PMM algorithms such as Cannon's, SUMMA, and PUMMA, etc have been designed to deal with various general conditions. Applying to the 3D cube, the algorithms' process are different by how they cut the blocks to save the data.
 </p>
-![PMM3](../Matrix_Paper/Matrix3d_Filter)
+![PMM3](../Matrix_Paper/Matrix3d_Filter.png)
 
 <p align = "left">
 Due to the different way to cut the cube, the efficiency of each algorithms are depend on the shape of the Matrix cube.
