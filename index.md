@@ -32,8 +32,9 @@ Also, I worked for Scala Computing to develop a distrubed task scheduling proces
 If you are interesting about my projects, please be free to check out it blow.
 </p>
  
+ 
 
-### <a name="Portfolio"></a>Projects
+**Portfolio**
 
 <table class="wide">
 <tr>
