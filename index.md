@@ -39,8 +39,8 @@ If you are interesting about my projects, please be free to check out it blow.
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="https://LihuaPeiNeo.github.io/Matrix_Paper/PMM_Represent.md">
-        <img src="Matrix_Paper/3DAlg.jpg" alt="Parallel Matrix Mutiplication" title="PMM"/>
+    <a href="https://LihuaPeiNeo.github.io/Matrix_Paper/PMM_Represent">
+      <img src="Matrix_Paper/3DAlg.jpg" alt="Parallel Matrix Mutiplication" title="PMM"/>
     </a>
   </td>
 
