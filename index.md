@@ -13,9 +13,8 @@ Welcome to my Github Pages!
 There are something you can explore me:
 <ul>
   <li><a herf="http://github.com//LihuaPeiNeo">Github</a></li>
+  <li>My resume <a href="{{ BASE_PATH }}/_Resume/Lihua_Pei_Resume.pdf">resume</a><li>
 </ul>
-
-My resume <a href="{{ BASE_PATH }}/_Resume/Lihua_Pei_Resume.pdf">resume</a>
 
 <br>
 <br>
@@ -50,12 +49,13 @@ If you are interesting about my projects, please be free to check out it blow.
         <img src="Scheduling_Process/Scheduling_Process.png" alt="Computer Coin Develop" title="Scheduling Proess"/>
     </a>
   </td>
-<!--
+
+
 </tr>
 <tr>
   <td class="left">
-    <a href="https://bsharvey.github.io">
-        <img src="pages/publpics/bioinformatics2.png" alt="Broman et al. (2013) Fig 7" title="Broman et al. (2013) Fig 7"/>
+    <a href="https://LihuaPeiNeo.github.io/Topology/Topology_Repersent">
+        <img src="Topology/32k3.png" alt="Optimal Topology Searching Research"/>
     </a>
   </td>
   <td class="right">
@@ -63,7 +63,7 @@ If you are interesting about my projects, please be free to check out it blow.
         <img src="pages/publpics/nba2.png" alt="Tian et al. (2015) Fig 4" title="Tian et al. (2015) Fig 4"/>
     </a>
   </td>
--->
+
 
 </tr>
 </table>
