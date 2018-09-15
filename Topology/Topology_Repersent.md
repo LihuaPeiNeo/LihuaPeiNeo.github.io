@@ -28,19 +28,19 @@ Figure 2: Heat map of Global Cancer Map (GCM) sample expression levels generated
 
 <p align = "left">
 
-Greating
+Greating aaa
 </p>
 
 ![TR1](../Topology/32k3.png)
 ![TR2](../Topology/bcast_32k3.png)
-![TR3](../Topology/gather_32ke.png)
+![TR3](../Topology/gather_32k3.png)
 ![TR4](../Topology/alltoall_32k3.png)
 ![TR5](../Topology/allgather_32k3.png)
 ![TR6](../Topology/scatter_32k3.png)
 ![TR7](../Topology/reduceSum_32k3.png)
-![TR8](../Topology/reduceMax_32k3/png)
-![TR9](../Topology/64k3_45.png)
-![TR10](../Topology/64K3_90.png)
+![TR8](../Topology/reduceMax_32k3.png)
+![TR9](../Topology/64k3_90.png)
+![TR10](../Topology/64k3_45.png)
 ![TR11](../Topology/his_90.png)
 ![TR12](../Topology/his_45.png)
 ![TR13](../Topology/his_optimal.png)
