@@ -6,7 +6,7 @@ title: Analysis Of Parallel Matrix Multiplication Algorithms
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="Analysis_of_PMM.pdf">Analysis Of Parallel Matrix Multiplication Algorithms</a></li>
+          <li><a href="Analysis_of_PMM">Analysis Of Parallel Matrix Multiplication Algorithms</a></li>
       </ul>
   </div>
 </div>
