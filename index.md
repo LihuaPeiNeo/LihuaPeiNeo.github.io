@@ -13,7 +13,7 @@ Welcome to my Github Pages!
 There are something you can explore me:
 <ul>
   <li><a herf="http://github.com//LihuaPeiNeo">Github</a></li>
-  <li>My resume <a href="{{ BASE_PATH }}/_Resume/Lihua_Pei_Resume.pdf">resume</a><li>
+  <li>My resume <a href="{{ BASE_PATH }}/_Resume/Lihua_Pei_Resume.pdf">resume</a></li>
 </ul>
 
 <br>
@@ -31,9 +31,11 @@ Also, I worked for Scala Computing to develop a distrubed task scheduling proces
 If you are interesting about my projects, please be free to check out it blow.
 </p>
 
-<p align = "left">
------------------------------------------- Profolio --------------------------------------------  
-</p>
+<br>
+<br>
+
+**Profolio** 
+
 
 <table class="wide">
 <tr>
