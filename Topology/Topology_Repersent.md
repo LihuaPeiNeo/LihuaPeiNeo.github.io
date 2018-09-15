@@ -24,17 +24,23 @@ see B. S. Harvey and S. Ji, "Cloud-Scale Genomic Signals Processing for Robust L
 Figure 1: Heat map of Global Cancer Map (GCM) sample expression levels generated from Wavelet Thresholding method for genes/features selection.
 Figure 2: Heat map of Global Cancer Map (GCM) sample expression levels generated from Differentially Expressed method for genes/features selection.
 -->
-#### <a name="Computer Coin Developing: Scheduling Project Design."></a>Computer Coin Developing: Scheduling Project Design.
+#### <a name="Optimal Topologies Searching Research"></a>Optimal Topologies Searching Research
 
 <p align = "left">
 
-We design the white-paper which purposes a new reinforcement model **PANDA (Policy Advisor Network and Decision Architecture)** applies the reinforcement learning to arrange consumer jobs for certain computer power resource.
-
+Greating
 </p>
 
-![SP1](../Scheduling_Process/Scheduling_Process.png)
-![SP2](../Scheduling_Process/Training1.jpg)
-![SP3](../Scheduling_Process/Training2.jpg)
-![SP4](../Scheduling_Process/NN.jpg)
-![SP5](../Scheduling_Process/actor_network.png)
-![SP6](../Scheduling_Process/Training1.jpg)
+![TR1](../Topology/32k3.png)
+![TR2](../Topology/bcast_32k3.png)
+![TR3](../Topology/gather_32ke.png)
+![TR4](../Topology/alltoall_32k3.png)
+![TR5](../Topology/allgather_32k3.png)
+![TR6](../Topology/scatter_32k3.png)
+![TR7](../Topology/reduceSum_32k3.png)
+![TR8](../Topology/reduceMax_32k3/png)
+![TR9](../Topology/64k3_45.png)
+![TR10](../Topology/64K3_90.png)
+![TR11](../Topology/his_90.png)
+![TR12](../Topology/his_45.png)
+![TR13](../Topology/his_optimal.png)
