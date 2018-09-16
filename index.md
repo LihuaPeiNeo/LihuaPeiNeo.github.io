@@ -6,7 +6,7 @@ keywords: Python, Pyplot, Statistic Modeling, Computer Vision, Data Analytics, a
 ---
 
 
-Welcome to **Lihua (Neo) Pei** Github Pages!
+Welcome to **Lihua (Neo) Pei's** Github Pages!
 
 
 <p align="left">
