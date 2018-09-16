@@ -15,6 +15,7 @@ There are something you can explore me:
   <li><a herf="http://github.com//LihuaPeiNeo">Github</a></li>
   <li>My resume <a href="{{ BASE_PATH }}/_Resume/Lihua_Pei_Resume.pdf">resume</a></li>
 </ul>
+</p>
 
 <br>
 <br>
@@ -34,7 +35,7 @@ If you are interesting about my projects, please be free to check out it blow.
 <br>
 <br>
 
-**Profolio** 
+### <a name="Portfolio"></a>Portfolio
 
 
 <table class="wide">
