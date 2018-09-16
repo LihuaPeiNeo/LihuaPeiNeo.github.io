@@ -5,9 +5,9 @@ description: Lihua (Neo) Pei is an graduate student at The George Washington Uni
 keywords: Python, Pyplot, Statistic Modeling, Computer Vision, Data Analytics, and Mashine Learning.
 ---
 
-<p align = "left">
-Welcome to my Github Pages!
-</p>
+
+Welcome to **Lihua (Neo) Pei** Github Pages!
+
 
 <p align="left">
 There are something you can explore me:
