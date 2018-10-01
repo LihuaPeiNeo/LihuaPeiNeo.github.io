@@ -12,8 +12,8 @@ Greating aaa
 </p>
 
 ![TR1](../Topology/32k3.png)
-![TR2](../Topology/4methods.png)
-![TR3](../Topology/3methods.png)
+![TR2](../Topology/methods_group1.png)
+![TR3](../Topology/methods_group2.png)
 
 ![TR9](../Topology/vsGraph.png)
 
