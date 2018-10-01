@@ -24,20 +24,22 @@ There are something you can explore me:
   <li><a herf="http://github.com/LihuaPeiNeo">Github</a></li>
   
 </ul>
+</p>
 
-This is my <a herf="{{ BASE_PATH }}/_Resume/Resume.pdf">resume</a>.
+<p align="left">
+This is my <a herf="https://LihuaPeiNeo.github.io/_Resume/Resume.pdf">resume</a>.
+</p>
 
-<br>
 
+<p align="left">
 I attended the graduate research projects guided by professor Deng which aimed to search the optimal topologies for clusters.
+</p>
 
-<br>
-
+<p align="left">
 As the second author, I am working on Parallel Matrix Multiplication Research paper which proposed an algorithmic group that covers Cannon’s. BMR, SUMMA, distributed Strassen’s method for scalable parallel large-scale matrix multiplications.
+</p>
 
-<br>
-<br>
-
+<p align="left">
 If you are interesting about my projects, please be free to click the pictures blow to enter my project introductions.
 </p>
 
