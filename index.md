@@ -8,7 +8,7 @@ keywords: Python, Pyplot, Statistic Modeling, Computer Vision, Data Analytics, a
 ## <a name="Welcome to Lihua (Neo) Pei's Github Pages!"></a>Welcome to Lihua (Neo) Pei's Github Pages!
 
 <p align = "left">
- My name is Lihua (Neo) Pei. Currently I am a graduate student studying at the George Washington University graduate program in Data Analytics.
+ My name is Lihua (Neo) Pei. Currently I am a graduate student studying at the George Washington University majored in Data Analytics.
 </p>
 
 <p align = "left">
