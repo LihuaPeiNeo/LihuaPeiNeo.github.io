@@ -20,12 +20,12 @@ The High-performance computing (HPC) algorithms for linear algebra are critical 
 <p align = "left">
 Instead of study the PMM algorithms' process in a 2D plane, it is more easy and visualize to think it in a 3D cube.
 </p>
-![PMM1](../Matrix_Paper/3DMatrix_intro.png)
+![PMM1](../Matrix_Paper/3d_process.png)
 
 <p align = "left">
 In the 3D cube, the matrix multiplication process is to multiply the value stored in two surfaces of little cube then store the result in the upper surface. In the end, we need do the reduction to sum all result by the Z-axis.
 </p>
-![PMM2](../Matrix_Paper/Matrix3d_Reduce.png)
+
 
 #### <a name="Blocks"></a>PMM Blocks
 <p align = "left">
