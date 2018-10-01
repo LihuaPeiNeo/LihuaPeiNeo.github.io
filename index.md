@@ -7,6 +7,17 @@ keywords: Python, Pyplot, Statistic Modeling, Computer Vision, Data Analytics, a
 
 ## <a name="Welcome to Lihua (Neo) Pei's Github Pages!"></a>Welcome to Lihua (Neo) Pei's Github Pages!
 
+<p align = "left">
+ My name is Lihua (Neo) Pei. Currently I am a graduate student studying at the George Washington University graduate program in Data Analytics.
+</p>
+
+<p align = "left">
+I am enthusiastic about researches and studies which related to statistics, data analytics, and management of databases.
+</p>
+
+
+
+
 <br>
 <br>
 
@@ -14,7 +25,7 @@ keywords: Python, Pyplot, Statistic Modeling, Computer Vision, Data Analytics, a
 There are something you can explore me:
 <ul>
   <li><a herf="http://github.com//LihuaPeiNeo">Github</a></li>
-  <li>My resume <a href="{{ BASE_PATH }}/_Resume/Lihua_Pei_Resume.pdf">resume</a></li>
+  <li>My resume <a href="{{ BASE_PATH }}/_Resume/Resume.pdf">resume</a></li>
 </ul>
 </p>
 
@@ -22,15 +33,15 @@ There are something you can explore me:
 <br>
 
 <p align = "left">
-Back to my senior year in my undergraduate, I attended professor Deng's group and assisted to do research about parallel computing project. Currently as the second author working on paper deft proposed an algorithmic group that covers Cannon’s, BMR, SUMMA, distributed Strassen’s method for scalable parallel large-scale matrix multiplications. In addition, we generated generate a function which aims to collect the existing method and predict the future parallel matrix multiplications’ methods.
+I attended the graduate research projects guided by professor Deng which aimed to search the optimal topologies for clusters.
 </p>
 
 <p align = "left">
-Also, I worked for Scala Computing to develop a distrubed task scheduling process for their computer coins' development project. We design the whitepaper which purposes a new reinforcement model PANDA (Policy Advisor Network and Decision Architecture) applies the reinforcement learning to arrange consumer jobs for certain computer power resource.
+As the second author, I am working on Parallel Matrix Multiplication Research paper which proposed an algorithmic group that covers Cannon’s. BMR, SUMMA, distributed Strassen’s method for scalable parallel large-scale matrix multiplications.
 </p>
 
 <p align = "left">
-If you are interesting about my projects, please be free to check out it blow.
+If you are interesting about my projects, please be free to click the pictures blow to enter my project introductions.
 </p>
 
 <br>
@@ -62,11 +73,13 @@ If you are interesting about my projects, please be free to check out it blow.
         <img src="Topology/32k3.png" alt="Optimal Topology Searching Research"/>
     </a>
   </td>
+  <!--
   <td class="right">
     <a href="https://bsharvey.github.io">
         <img src="pages/publpics/nba2.png" alt="Tian et al. (2015) Fig 4" title="Tian et al. (2015) Fig 4"/>
     </a>
   </td>
+  -->
 
 
 </tr>
