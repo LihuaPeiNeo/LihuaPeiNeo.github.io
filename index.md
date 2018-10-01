@@ -21,27 +21,26 @@ I am enthusiastic about researches and studies which related to statistics, data
 <p align="left">
 There are something you can explore me:
 <ul>
-  <li><a herf="http://github.com//LihuaPeiNeo">Github</a></li>
-  <li>My <a href="{{ BASE_PATH }}/_Resume/Resume.pdf">resume</a></li>
+  <li><a herf="http://github.com/LihuaPeiNeo">Github</a></li>
+  
 </ul>
-</p>
+
+This is my <a herf="{{ BASE_PATH }}/_Resume/Resume.pdf">resume</a>.
 
 <br>
-<br>
 
-<p align = "left">
 I attended the graduate research projects guided by professor Deng which aimed to search the optimal topologies for clusters.
-</p>
 
-<p align = "left">
+<br>
+
 As the second author, I am working on Parallel Matrix Multiplication Research paper which proposed an algorithmic group that covers Cannon’s. BMR, SUMMA, distributed Strassen’s method for scalable parallel large-scale matrix multiplications.
-</p>
 
-<p align = "left">
+<br>
+<br>
+
 If you are interesting about my projects, please be free to click the pictures blow to enter my project introductions.
 </p>
 
-<br>
 <br>
 
 ### <a name="Portfolio"></a>Portfolio
