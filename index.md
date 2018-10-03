@@ -20,17 +20,15 @@ I am enthusiastic about researches and studies which related to statistics, data
 
 <p align="left">
 There are something you can explore me:
-<ul>
-  <li><a herf="http://github.com/LihuaPeiNeo">Github</a></li>
-  
-</ul>
 </p>
-
-<p align="left">
-This is my <a herf="https://LihuaPeiNeo.github.io/_Resume/Resume.pdf">resume</a>.
-</p>
-
-
+<div class="navbar">
+  <div class="navbar-inner">
+      <ul class="nav">
+          <li><a href="{{ BASE_PATH }}/\_Resume/Resume.pdf">Resume</a></li>
+          <li><a href="https://github.com/LihuaPeiNeo">github</a></li>
+      </ul>
+  </div>
+</div>
 <p align="left">
 I attended the graduate research projects guided by professor Deng which aimed to search the optimal topologies for clusters.
 </p>
@@ -68,7 +66,7 @@ If you are interesting about my projects, please be free to click the pictures b
 <tr>
   <td class="left">
     <a href="https://LihuaPeiNeo.github.io/Topology/Topology_Repersent">
-        <img src="Topology/32k3.png" alt="Optimal Topology Searching Research"/>
+        <img src="methods_group1.png" alt="Optimal Topology Searching Research"/>
     </a>
   </td>
   <!--
