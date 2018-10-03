@@ -23,7 +23,7 @@ There are something you can explore me:
 </p>
 
 <ul>
-      <li><a href="/Resume/https://LihuaPeiNeo.github.io/Lihua_resume.pdf">Resume</a></li>
+      <li><a href="https://LihuaPeiNeo.github.io/Resume/Lihua_resume.pdf">Resume</a></li>
       <li><a href="https://github.com/LihuaPeiNeo">github</a></li>
 </ul>
 
@@ -64,7 +64,7 @@ If you are interesting about my projects, please be free to click the pictures b
 <tr>
   <td class="left">
     <a href="https://LihuaPeiNeo.github.io/Topology/Topology_Repersent">
-        <img src="methods_group1.png" alt="Optimal Topology Searching Research"/>
+        <img src="Topology/methods_group1.png" alt="Optimal Topology Searching Research"/>
     </a>
   </td>
   <!--
