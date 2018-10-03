@@ -21,14 +21,12 @@ I am enthusiastic about researches and studies which related to statistics, data
 <p align="left">
 There are something you can explore me:
 </p>
-<div class="navbar">
-  <div class="navbar-inner">
-      <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/\_Resume/Resume.pdf">Resume</a></li>
-          <li><a href="https://github.com/LihuaPeiNeo">github</a></li>
-      </ul>
-  </div>
-</div>
+
+<ul>
+      <li><a href="/Resume/https://LihuaPeiNeo.github.io/Lihua_resume.pdf">Resume</a></li>
+      <li><a href="https://github.com/LihuaPeiNeo">github</a></li>
+</ul>
+
 <p align="left">
 I attended the graduate research projects guided by professor Deng which aimed to search the optimal topologies for clusters.
 </p>
