@@ -25,7 +25,7 @@ There are something you can explore me:
 <ul>
       <li><a href="https://LihuaPeiNeo.github.io/Resume/Lihua_resume.pdf">Resume</a></li>
       <li><a href="https://github.com/LihuaPeiNeo">github</a></li>
-      <li>This is my <a href="https://LihuaPeiNeo.github.io/HW/Lihua_Pei_HW1.ipynb">HW1</a> for Professor Benjanmin Harvey.</li>
+      <li>This is my <a href="https://LihuaPeiNeo.github.io/HW/Lihua_Pei_HW1.ipynb">HW1</a> and <a href="https://LihuaPeiNeo.github.io/HW/Project_Proposal.docx>Project Proposal</a> for Professor Benjanmin Harvey.</li>
 </ul>
 
 <p align="left">
