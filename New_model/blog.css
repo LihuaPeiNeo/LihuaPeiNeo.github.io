@@ -135,6 +135,7 @@ button{
 .one h2{
     float:left;
     position: relative;
+    color: #000000
     left:150px;
     top:100px;
 }
@@ -159,6 +160,7 @@ button{
 .two h2{
     float: left;
     position: relative;
+    color: #000000
     left:150px;
     top:100px;
 }
@@ -178,6 +180,7 @@ button{
 .three h2{
     float: left;
     position: relative;
+    color: #000000
     left:150px;
     top:100px;
 }
