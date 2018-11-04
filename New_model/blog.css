@@ -101,6 +101,11 @@ button{
     transform: rotate(45deg);
     margin: 25px;
 }
+.green-area .img4 img{
+    width: 300px;
+    height: 500px;
+    float: left;
+}
 
 .gray-area{
     background: #4a4949;
