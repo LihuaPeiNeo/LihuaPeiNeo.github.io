@@ -4,7 +4,7 @@
     font-family: 微软雅黑;
 }
 .hr{
-    width: 100%;
+    width: 50%;
     height: 2px;
     margin: 0px auto;
 }
@@ -180,7 +180,7 @@ button{
 .three h2{
     float: left;
     position: relative;
-    
+
     left:150px;
     top:100px;
 }
