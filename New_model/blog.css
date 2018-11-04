@@ -15,7 +15,9 @@ h3{
     font-size: 20px;
 }
 nav{
+
     background: transparent;
+    background-color:#444444;
     width: 100%;
     height: 50px;
     position: fixed;
@@ -70,7 +72,7 @@ button{
 }
 #banner .center1 .more a{
     text-decoration: none;
-    color: #9c2029;
+    color: #000000;
     font-size: 18px;
 }
 /*内容*/
