@@ -17,7 +17,7 @@ h3{
 nav{
 
     background: transparent;
-    background-color:#444444;
+    background-color:#888888;
     width: 100%;
     height: 50px;
     position: fixed;
@@ -108,7 +108,7 @@ button{
     height: 900px;
 }
 .one{
-    background-color: #6e6c6c;
+    background-color: ##cdcbcb;
     width: 100%;
     height: 300px;
 }
@@ -131,7 +131,7 @@ button{
     top:100px;
 }
 .two{
-    background-color: #373636;
+    background-color: #8b8989;
     width: 100%;
     height: 300px;
 }
