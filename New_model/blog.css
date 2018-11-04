@@ -248,7 +248,7 @@ footer{
     display: inline-block;
 }
 .main{
-    background: #444 url(Backgroud.jpeg);
+    background: #444 url(Backgroud.jpg);
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
