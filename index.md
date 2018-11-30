@@ -5,15 +5,17 @@ description: Lihua (Neo) Pei is an graduate student at The George Washington Uni
 keywords: Python, Pyplot, Statistic Modeling, Computer Vision, Data Analytics, and Mashine Learning.
 ---
 
-## <a name="Welcome to Lihua (Neo) Pei's Github Pages!"></a>Welcome to Lihua (Neo) Pei's Github Pages!
+## <a name="Welcome to Lihua (Neo) Pei's Portfolio!"></a>Welcome to Lihua (Neo) Pei's Portfolio!
+
 <br>
 <br>
+
 <p align = "left">
  My name is Lihua (Neo) Pei. Currently I am a graduate student studying at the George Washington University majored in Data Analytics.
 </p>
 
 <p align = "left">
-I am enthusiastic about researches and studies which related to statistics, data analytics, and management of databases.
+I am enthusiastic about researches and studies which related to statistics, data analytics, and machine learning.
 </p>
 
 
@@ -44,7 +46,7 @@ If you are interesting about my projects, please be free to click the pictures b
 
 <br>
 
-### <a name="Portfolio"></a>Portfolio
+### <a name="Projects"></a>Projects
 
 
 <table class="wide">
