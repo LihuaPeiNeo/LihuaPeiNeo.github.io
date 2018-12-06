@@ -58,7 +58,7 @@ If you are interesting about my projects, please be free to click the pictures b
 
   <td class="right">
     <a href="https://github.com/LihuaPeiNeo/LihuaPeiNeo.github.io/blob/master/final_project/final_present.pptx">
-        <img src="https://github.com/LihuaPeiNeo/LihuaPeiNeo.github.io/blob/master/final_project/trump3.png">
+        <img src="final_project/trump3.png" alt="Topic Modeling" />
     </a>
   </td>
 
