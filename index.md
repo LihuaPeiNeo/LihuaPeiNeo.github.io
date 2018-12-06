@@ -57,8 +57,8 @@ If you are interesting about my projects, please be free to click the pictures b
 
 
   <td class="right">
-    <a href="https://LihuaPeiNeo.github.io/Scheduling_Process/SP_Represent">
-        <img src="Scheduling_Process/Scheduling_Process.png" alt="Computer Coin Develop" title="Scheduling Proess"/>
+    <a href="https://github.com/LihuaPeiNeo/LihuaPeiNeo.github.io/blob/master/final_project/final_present.pptx">
+        <img src="https://github.com/LihuaPeiNeo/LihuaPeiNeo.github.io/blob/master/final_project/trump3.png">
     </a>
   </td>
 
@@ -70,13 +70,14 @@ If you are interesting about my projects, please be free to click the pictures b
         <img src="Topology/methods_group1.png" alt="Optimal Topology Searching Research"/>
     </a>
   </td>
-  <!--
   <td class="right">
-    <a href="https://bsharvey.github.io">
-        <img src="pages/publpics/nba2.png" alt="Tian et al. (2015) Fig 4" title="Tian et al. (2015) Fig 4"/>
+    <a href="https://LihuaPeiNeo.github.io/Scheduling_Process/SP_Represent">
+        <img src="Scheduling_Process/Scheduling_Process.png" alt="Computer Coin Develop" title="Scheduling Proess"/>
     </a>
   </td>
-  -->
+
+
+
 
 
 </tr>
