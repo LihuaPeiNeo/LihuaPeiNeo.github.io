@@ -33,7 +33,7 @@ Skilled in Machine Learning, Data Visualiztion, Nature Language Processing and D
   <td class="left">
     <a href="https://LihuaPeiNeo.github.io/Matrix_Paper/PMM_Represent">
       <img src="Matrix_Paper/3DAlg.jpg" alt="Parallel Matrix Mutiplication" title="PMM"/>
-      <h3>Parallel Matrix Mutiplication</h3>
+      <h5>Parallel Matrix Mutiplication</h5>
     </a>
   </td>
 
@@ -41,7 +41,7 @@ Skilled in Machine Learning, Data Visualiztion, Nature Language Processing and D
   <td class="right">
     <a href="https://github.com/LihuaPeiNeo/LihuaPeiNeo.github.io/blob/master/final_project/final_present.pptx">
         <img src="final_project/trump3.png" alt="Topic Modeling" />
-        <h3>Topic Modeling - Donald Trump's Twitters Analysis</h3>
+        <h5>Topic Modeling - Donald Trump's Twitters Analysis</h5>
     </a>
   </td>
 
@@ -51,13 +51,13 @@ Skilled in Machine Learning, Data Visualiztion, Nature Language Processing and D
   <td class="left">
     <a href="https://LihuaPeiNeo.github.io/Topology/Topology_Repersent">
         <img src="Topology/methods_group1.png" alt="Optimal Topology Searching Research"/>
-        <h3>Optimal Topology Searching Research</h3>
+        <h5>Optimal Topology Searching Research</h5>
     </a>
   </td>
   <td class="right">
     <a href="https://LihuaPeiNeo.github.io/Scheduling_Process/SP_Represent">
         <img src="Scheduling_Process/Scheduling_Process.png" alt="Computer Coin Develop" title="Scheduling Proess"/>
-        <h3>Scheduling Process</h3>
+        <h5>Scheduling Process</h5>
     </a>
     
   </td>
