@@ -11,40 +11,20 @@ keywords: Python, Pyplot, Statistic Modeling, Computer Vision, Data Analytics, a
 <br>
 
 <p align = "left">
- My name is Lihua (Neo) Pei. Currently I am a graduate student studying at the George Washington University majored in Data Analytics.
+My name is Lihua (Neo) Pei. Currently I am a graduate student studying at the George Washington University majored in Data Analytics.
 </p>
 
 <p align = "left">
-I am enthusiastic about researches and studies which related to statistics, data analytics, and machine learning.
+I describe myself as a junior data scientist with 2+ years of experience in work and projects.
+Skilled in Machine Learning, Data Visualiztion, Nature Language Processing and Database Management.
 </p>
 
 
 
-<p align="left">
-There are something you can explore me:
-</p>
-
-<ul>
-      <li><a href="https://LihuaPeiNeo.github.io/Resume/Lihua_resume.pdf">Resume</a></li>
-      <li><a href="https://github.com/LihuaPeiNeo">github</a></li>
-
-</ul>
-
-<p align="left">
-I attended the graduate research projects guided by professor Deng which aimed to search the optimal topologies for clusters.
-</p>
-
-<p align="left">
-As the second author, I am working on Parallel Matrix Multiplication Research paper which proposed an algorithmic group that covers Cannon’s. BMR, SUMMA, distributed Strassen’s method for scalable parallel large-scale matrix multiplications.
-</p>
-
-<p align="left">
-If you are interesting about my projects, please be free to click the pictures blow to enter my project introductions.
-</p>
 
 <br>
 
-### <a name="Projects"></a>Projects
+### <a name="Projects"></a> Selected Projects
 
 
 <table class="wide">
