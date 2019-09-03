@@ -39,8 +39,8 @@ Skilled in Machine Learning, Data Visualiztion, Nature Language Processing and D
 
 
   <td class="right">
-    <a href="https://github.com/LihuaPeiNeo/LihuaPeiNeo.github.io/blob/master/final_project/final_present.pptx">
-        <img src="final_project/trump3.png" alt="Topic Modeling" />
+    <a href="https://github.com/LihuaPeiNeo/LihuaPeiNeo.github.io/blob/master/final_project/Trump.pdf">
+        <img src="final_project/Trump_cloud.png" alt="Topic Modeling" />
         <h5>Topic Modeling - Donald Trump's Twitters Analysis</h5>
     </a>
   </td>
