@@ -32,7 +32,7 @@ Skilled in Machine Learning, Data Visualiztion, Nature Language Processing and D
 <tr>
 
   <td class="left">
-    <a href="https://LihuaPeiNeo.github.io/Fresh_Air_DC/README.md">
+    <a href="https://LihuaPeiNeo.github.io/Fresh_Air_DC/Air DC Web/Air_DC.HTML">
       <img src="Fresh_Air_DC/Air_1.png" alt="Fresh Air DC" title="Fresh Air DC"/>
       <h4>Fresh Air DC Project</h4>
     </a>
