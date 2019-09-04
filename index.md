@@ -34,7 +34,7 @@ Skilled in Machine Learning, Data Visualiztion, Nature Language Processing and D
   <td class="left">
     <a href="https://LihuaPeiNeo.github.io/Fresh_Air_DC/README.md">
       <img src="Fresh_Air_DC/Air_1.png" alt="Fresh Air DC" title="Fresh Air DC"/>
-      <h5>Fresh Air DC Project</h5>
+      <h4>Fresh Air DC Project</h4>
     </a>
   </td>
 </tr>
@@ -43,7 +43,7 @@ Skilled in Machine Learning, Data Visualiztion, Nature Language Processing and D
   <td class="left">
     <a href="https://LihuaPeiNeo.github.io/Matrix_Paper/PMM_Represent">
       <img src="Matrix_Paper/3DAlg.jpg" alt="Parallel Matrix Mutiplication" title="PMM"/>
-      <h5>Parallel Matrix Mutiplication</h5>
+      <h4>Parallel Matrix Mutiplication</h4>
     </a>
   </td>
 
@@ -51,7 +51,7 @@ Skilled in Machine Learning, Data Visualiztion, Nature Language Processing and D
   <td class="right">
     <a href="https://github.com/LihuaPeiNeo/LihuaPeiNeo.github.io/blob/master/final_project/Trump.pdf">
         <img src="final_project/Trump_cloud.png" alt="Topic Modeling" />
-        <h5>Topic Modeling - Donald Trump's Twitters Analysis</h5>
+        <h4>Topic Modeling - Donald Trump's Twitters Analysis</h4>
     </a>
   </td>
 
@@ -61,13 +61,13 @@ Skilled in Machine Learning, Data Visualiztion, Nature Language Processing and D
   <td class="left">
     <a href="https://LihuaPeiNeo.github.io/Topology/Topology_Repersent">
         <img src="Topology/methods_group1.png" alt="Optimal Topology Searching Research"/>
-        <h5>Optimal Topology Searching Research</h5>
+        <h4>Optimal Topology Searching Research</h4>
     </a>
   </td>
   <td class="right">
     <a href="https://LihuaPeiNeo.github.io/Scheduling_Process/SP_Represent">
         <img src="Scheduling_Process/Scheduling_Process.png" alt="Computer Coin Develop" title="Scheduling Proess"/>
-        <h5>Scheduling Process</h5>
+        <h4>Scheduling Process</h4>
     </a>
     
   </td>
