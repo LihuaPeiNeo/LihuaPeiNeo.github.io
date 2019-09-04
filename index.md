@@ -37,7 +37,9 @@ Skilled in Machine Learning, Data Visualiztion, Nature Language Processing and D
       <h5>Fresh Air DC Project</h5>
     </a>
   </td>
-  
+</tr>
+
+<tr>
   <td class="left">
     <a href="https://LihuaPeiNeo.github.io/Matrix_Paper/PMM_Represent">
       <img src="Matrix_Paper/3DAlg.jpg" alt="Parallel Matrix Mutiplication" title="PMM"/>
