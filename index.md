@@ -30,6 +30,14 @@ Skilled in Machine Learning, Data Visualiztion, Nature Language Processing and D
 
 <table class="wide">
 <tr>
+
+  <td class="left">
+    <a href="https://LihuaPeiNeo.github.io/Fresh_Air_DC/README.md">
+      <img src="Air_1.png" alt="FAC" title="Fresh Air DC"/>
+      <h5>Fresh Air DC Project</h5>
+    </a>
+  </td>
+  
   <td class="left">
     <a href="https://LihuaPeiNeo.github.io/Matrix_Paper/PMM_Represent">
       <img src="Matrix_Paper/3DAlg.jpg" alt="Parallel Matrix Mutiplication" title="PMM"/>
