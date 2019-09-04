@@ -7,6 +7,7 @@ keywords: Python, Pyplot, Statistic Modeling, Computer Vision, Data Analytics, a
 
 ## <a name="Welcome to Lihua (Neo) Pei's Portfolio!"></a>Welcome to Lihua (Neo) Pei's Portfolio!
 
+<img src="me.jpg" alt="me" title="me" height = "200px" width = "180px"/>
 <br>
 <br>
 
